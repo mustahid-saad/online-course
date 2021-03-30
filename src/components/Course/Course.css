@@ -1,0 +1,25 @@
+.course-content{
+    border: 2px solid rgb(63, 46, 219);
+    border-radius: 10px;
+    margin: 5px 20px;
+    padding: 5px;
+    width: 700px;
+
+}
+.course-content button{
+     width: 110px;
+     height: 30px;
+     font-weight:600;
+     margin-left: 280px;
+     margin-bottom: 10px;
+     color: white;
+     background-color: rgb(9, 11, 104);
+     border-radius: 5px;
+     
+  
+     
+}
+.course-content button:hover{
+    color: rgb(9, 11, 104);
+    background-color: white;
+}
